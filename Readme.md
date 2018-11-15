@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/WebApplication3/Default.aspx) (VB: [Default.aspx](./VB/WebApplication3/Default.aspx))
+* [Default.aspx.cs](./CS/WebApplication3/Default.aspx.cs) (VB: [Default.aspx](./VB/WebApplication3/Default.aspx))
+<!-- default file list end -->
 # How to create the "select all" check box dynamically
 
 
